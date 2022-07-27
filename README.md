@@ -1,1 +1,2 @@
-The most interesting Codewars tasks and solutions for me.
+# Codewars
+The most interesting tasks and solutions for me.
